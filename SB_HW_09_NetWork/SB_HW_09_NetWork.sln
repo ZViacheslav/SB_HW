@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SB_HW_09_NetWork", "SB_HW_09_NetWork.csproj", "{EADD6D11-0BC6-464C-9F5A-CFA549C89D77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EADD6D11-0BC6-464C-9F5A-CFA549C89D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EADD6D11-0BC6-464C-9F5A-CFA549C89D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EADD6D11-0BC6-464C-9F5A-CFA549C89D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EADD6D11-0BC6-464C-9F5A-CFA549C89D77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91FED0A2-E2ED-4771-8BC3-E0034BFEDC4A}
+	EndGlobalSection
+EndGlobal

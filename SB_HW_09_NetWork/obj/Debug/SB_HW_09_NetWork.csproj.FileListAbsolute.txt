@@ -1,0 +1,13 @@
+C:\001_MyGitRepositores\2_SkillBox\SB_HW\SB_HW_09_NetWork\bin\Debug\SB_HW_09_NetWork.exe.config
+C:\001_MyGitRepositores\2_SkillBox\SB_HW\SB_HW_09_NetWork\bin\Debug\SB_HW_09_NetWork.exe
+C:\001_MyGitRepositores\2_SkillBox\SB_HW\SB_HW_09_NetWork\bin\Debug\SB_HW_09_NetWork.pdb
+C:\001_MyGitRepositores\2_SkillBox\SB_HW\SB_HW_09_NetWork\bin\Debug\Newtonsoft.Json.dll
+C:\001_MyGitRepositores\2_SkillBox\SB_HW\SB_HW_09_NetWork\bin\Debug\Telegram.Bot.dll
+C:\001_MyGitRepositores\2_SkillBox\SB_HW\SB_HW_09_NetWork\bin\Debug\Newtonsoft.Json.xml
+C:\001_MyGitRepositores\2_SkillBox\SB_HW\SB_HW_09_NetWork\bin\Debug\Telegram.Bot.xml
+C:\001_MyGitRepositores\2_SkillBox\SB_HW\SB_HW_09_NetWork\obj\Debug\SB_HW_09_NetWork.csproj.AssemblyReference.cache
+C:\001_MyGitRepositores\2_SkillBox\SB_HW\SB_HW_09_NetWork\obj\Debug\SB_HW_09_NetWork.csproj.SuggestedBindingRedirects.cache
+C:\001_MyGitRepositores\2_SkillBox\SB_HW\SB_HW_09_NetWork\obj\Debug\SB_HW_09_NetWork.csproj.CoreCompileInputs.cache
+C:\001_MyGitRepositores\2_SkillBox\SB_HW\SB_HW_09_NetWork\obj\Debug\SB_HW_09_NetWork.csproj.CopyComplete
+C:\001_MyGitRepositores\2_SkillBox\SB_HW\SB_HW_09_NetWork\obj\Debug\SB_HW_09_NetWork.exe
+C:\001_MyGitRepositores\2_SkillBox\SB_HW\SB_HW_09_NetWork\obj\Debug\SB_HW_09_NetWork.pdb
