@@ -11,3 +11,13 @@ C:\001_MyGitRepositores\2_SkillBox\SB_HW\SB_HW_09_NetWork\obj\Debug\SB_HW_09_Net
 C:\001_MyGitRepositores\2_SkillBox\SB_HW\SB_HW_09_NetWork\obj\Debug\SB_HW_09_NetWork.csproj.CopyComplete
 C:\001_MyGitRepositores\2_SkillBox\SB_HW\SB_HW_09_NetWork\obj\Debug\SB_HW_09_NetWork.exe
 C:\001_MyGitRepositores\2_SkillBox\SB_HW\SB_HW_09_NetWork\obj\Debug\SB_HW_09_NetWork.pdb
+C:\001_MyGitRepositores\2_SkillBox\SB_HW\SB_HW_09_NetWork\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\001_MyGitRepositores\2_SkillBox\SB_HW\SB_HW_09_NetWork\bin\Debug\System.Threading.Channels.dll
+C:\001_MyGitRepositores\2_SkillBox\SB_HW\SB_HW_09_NetWork\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\001_MyGitRepositores\2_SkillBox\SB_HW\SB_HW_09_NetWork\bin\Debug\Telegram.Bot.Extensions.Polling.dll
+C:\001_MyGitRepositores\2_SkillBox\SB_HW\SB_HW_09_NetWork\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\001_MyGitRepositores\2_SkillBox\SB_HW\SB_HW_09_NetWork\bin\Debug\System.Threading.Channels.xml
+C:\001_MyGitRepositores\2_SkillBox\SB_HW\SB_HW_09_NetWork\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\001_MyGitRepositores\2_SkillBox\SB_HW\SB_HW_09_NetWork\bin\Debug\Telegram.Bot.pdb
+C:\001_MyGitRepositores\2_SkillBox\SB_HW\SB_HW_09_NetWork\bin\Debug\Telegram.Bot.Extensions.Polling.pdb
+C:\001_MyGitRepositores\2_SkillBox\SB_HW\SB_HW_09_NetWork\bin\Debug\Telegram.Bot.Extensions.Polling.xml
